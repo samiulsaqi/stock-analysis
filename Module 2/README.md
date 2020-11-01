@@ -10,14 +10,16 @@ This project is basically a simple analysis of two years of stock performanceusi
 ## Results
 
 Looking over the analysis, it can be said that DAQO was a good company to invest in for 2017, as it showed a return of almost 200%. Other stocks except TERP seemed to enjoy a favorable year. However, 2018 seems to be a bad year for almost all the stocks except ENPH and RUN, which had positive results. Considering overall results, it would be better to go with ENPH stocks as it has the most favorable result(132% & 82% over two years.)
+<img src = resources/2017_result.png></img> <img src= resources/2018_result.png></img>
+
 
 As for the refactoring of the script, this improved the performance by almost 80%, as the prvious code took 0.63 seconds whereas the new code takes only 0.10 seconds approximately for both years. So it is better using the refactored code.
 
 Result Comparison 2017
-<img src = /resources/2017_run_old_system.png></img> <img src= /resources/VBA_Challenge_2017.png></img>
+<img src = resources/2017_run_old_system.png></img> <img src= resources/VBA_Challenge_2017.png></img>
 
 Result Comparison 2018
-<img src = /resources/2018_run_old_system.png></img> <img src= /resources/VBA_Challenge_2018.png></img>
+<img src = resources/2018_run_old_system.png></img> <img src= resources/VBA_Challenge_2018.png></img>
 
 
 ## Summary
